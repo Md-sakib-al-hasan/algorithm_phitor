@@ -1,0 +1,4 @@
+ (a)answer: O(log₂(n) * n) ;
+ (b)answer: o(√n);
+ (c)answer: O(log₂(n) * √n) ;
+ (d)answer: O(n);
